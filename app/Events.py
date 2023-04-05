@@ -202,7 +202,7 @@ class onMessageEvents(commands.Cog,name="onMessageEvents"):
 
                 
             if "fredbot" in message.content:
-                return await message.channel.send("https://fredboat.com/music-player/548536531351109655")
+                return await message.channel.send("https://fredboat.com/music-player/548000000109655")
         
 class onMemberUpdate(commands.Cog,name="onMemberUpdate"):
     def __init__(self, client:commands.Bot):
