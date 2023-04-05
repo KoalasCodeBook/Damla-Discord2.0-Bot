@@ -83,11 +83,11 @@ class onMessageEvents(commands.Cog,name="onMessageEvents"):
             #-----Otoma. Haftanın Sikilmeliği ------    
             ##Music linkini yanlış yere gönderirse##
             if "!play" in message.content or "?play" in message.content or "+play" in message.content:
-                if message.channel.id == 572382915808198657 or message.channel.id == 961019620335181894:          
+                if message.channel.id == 5700000000000657 or message.channel.id == 961000000000094:          
                     return #written in right place
                 else:
-                    dwarfs_server_object = discord.utils.get(self.client.guilds, id = 548536531351109655)
-                    role = discord.utils.get(dwarfs_server_object.roles, id = 572394065610407956)
+                    dwarfs_server_object = discord.utils.get(self.client.guilds, id = 5480000009655)
+                    role = discord.utils.get(dwarfs_server_object.roles, id = 572000000007956)
 
                     await message.channel.send("You retard got caught!")
                     await message.author.send("I just wanted to remind you are retarde.")
