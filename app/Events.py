@@ -91,7 +91,7 @@ class onMessageEvents(commands.Cog,name="onMessageEvents"):
 
                     await message.channel.send("You retard got caught!")
                     await message.author.send("I just wanted to remind you are retarde.")
-                    await message.author.send("https://fredboat.com/music-player/548536531351109655")
+                    await message.author.send("https://fredboat.com/music-player/5485300000009655")
                                         
                     await message.author.add_roles(role)  
             #--------IMDB data processing-----------------
