@@ -1,5 +1,4 @@
 # Damla Discord Bot
-This is my private Discord Bot
 
 There are differend ways to create a Discord Bot. In the way I did you can use commands with events together and they work fine. If you are using Replit don't forget to copy the keep_alive.py file. Damla was written in Turkish, so I had to change the basics. I have tried to make it understandable and left the rest as it is.
 
